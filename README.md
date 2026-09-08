@@ -1,6 +1,7 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name: Hemanth Kumar R      </h3>
 <h3>Register Number: 212223040065     </h3>
+<h3>Date : 17/08/2026 </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
